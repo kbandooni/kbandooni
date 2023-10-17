@@ -2,7 +2,7 @@
 - 👀 I’m interested in BackEnd Development
 - 🌱 I’m currently learning SpringBoot.
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me? Mail, Teams...
 
 <!---
 kbandooni/kbandooni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
